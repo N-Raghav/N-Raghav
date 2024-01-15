@@ -10,8 +10,6 @@ Skills: ROS, Gazebo, Python, Arduino, ESP32
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=N-Raghav) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=N-Raghav)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Raghav)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Raghav&show_icons=true&count_private=true)  
