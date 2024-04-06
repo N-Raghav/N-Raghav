@@ -1,4 +1,4 @@
-### Hi there 👋,  Raghav Nallaperumal
+### Hi there 👋,  Raghav Nallaperumal here!
 #### Robotics Engineer in the making!
 I am currently pursuing a Bachelor of Technology Degree with a specialization in IoT. I am an avid robotics enthusiast and have done a few projects in it as well. I have built an RC Rescue Mission Robot,an automated plant watering system using Arduino,DESK Buddy, Path Seeker and a River Cleaner Robot. Currently, I am Stimuli for Technological Innovation and Research for Student, pursuing my undergraduate research titled “MyMind”.
 
