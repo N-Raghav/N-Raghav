@@ -18,5 +18,4 @@
  <p>My experience extends to utilizing ROS1, RViz, and Gazebo, with a foundational understanding of CAD Design through AutoDesk Fusion360.</p>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N-Raghav&" alt="Raghav-N" /></p>
+
