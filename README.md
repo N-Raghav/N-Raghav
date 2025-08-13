@@ -1,7 +1,7 @@
 <h1 align="center">Raghav Nallaperumal</h1>
 <h3 align="center">An Aspiring Roboticist pursuing BTech CSE IoT at Shiv Nadar University Chennai</h3>
 
-- 👨‍💻 My portfolio website [n-raghav.github.io](https://n-raghav.github.io/)
+- 👨‍💻 My portfolio website [raghav-nallaperumal.vercel.app](raghav-nallaperumal.vercel.app)
 
 - 📫 How to reach me **raghavn753@gmail.com**
   
