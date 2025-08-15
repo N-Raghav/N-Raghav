@@ -1,5 +1,5 @@
 <h1 align="center">Raghav Nallaperumal</h1>
-<h3 align="center">An Aspiring Roboticist pursuing BTech CSE IoT at Shiv Nadar University Chennai</h3>
+<h3 align="center">An Aspiring Roboticist pursuing MS in Robotics Engineering at Worcester Polytechnic Institute</h3>
 
 - 👨‍💻 My portfolio website [https://raghav-nallaperumal.vercel.app](https://raghav-nallaperumal.vercel.app)
 
