@@ -6,8 +6,6 @@
 - 📫 How to reach me **raghavn753@gmail.com**
   
 <p align="center">
-  <a href="https://twitter.com/NRaghavTV" target="_blank"><img src="https://img.shields.io/twitter/follow/NRaghavTV?logo=twitter&style=for-the-badge" alt="NRaghavTV" /></a>
-  <a href="https://instagram.com/nraghav4" target="_blank"><img src="https://img.shields.io/badge/Instagram-nraghav4-orange?style=for-the-badge&logo=instagram" alt="nraghav4" /></a>
   <a href="https://www.linkedin.com/in/raghav-nallaperumal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Raghav Nallaperumal-blue?style=for-the-badge&logo=linkedin" alt="Raghav Nallaperumal" /></a>
 </p>
 
