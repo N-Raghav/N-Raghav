@@ -3,7 +3,7 @@
 
 - 👨‍💻 My portfolio website [https://raghav-nallaperumal.vercel.app](https://raghav-nallaperumal.vercel.app)
 
-- 📫 How to reach me **rnallaperumal@gmail.wpi.edu**
+- 📫 How to reach me **rnallaperumal@wpi.edu**
   
 <p align="center">
   <a href="https://www.linkedin.com/in/raghav-nallaperumal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Raghav Nallaperumal-blue?style=for-the-badge&logo=linkedin" alt="Raghav Nallaperumal" /></a>
