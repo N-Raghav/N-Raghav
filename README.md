@@ -10,10 +10,11 @@
 </p>
 
 <p align="center">
- <p>My primary areas of expertise lie within robotics and IoT, with a track record of successful projects spanning Arduino, Raspberry Pi, ESP32, and a diverse range of sensors.</p>
- <p>I am particularly interested in advancing my knowledge and skills in predictive maintenance, IoT protocol security, IoT node development, and IoT network architecture.</p>
- <p>In robotics, I have demonstrated proficiency in designing an autonomous two-wheeled robot capable of navigating independently.</p>
- <p>My experience extends to utilizing ROS1, RViz, and Gazebo, with a foundational understanding of CAD Design through AutoDesk Fusion360.</p>
+  <p><b>Robotics Graduate Student at WPI</b> specializing in the intersection of <b>learning-based manipulation</b> and <b>robotic perception</b>.</p>
+  
+  <p>My expertise lies in developing end-to-end robotics pipelines, from classical computer vision (Pb-lite, filter banks) to modern deep learning architectures (ResNet, DenseNet). I have a proven track record in designing autonomous systems using <b>ROS 2</b>, simulation environments like <b>PyBullet</b> and <b>Gazebo</b>, and motion planning for high-DOF manipulators like the <b>Franka Emika Panda</b>.</p>
+  
+  <p>I am driven by the challenge of making robot manipulation more robust through predictive modeling, tactile sensing integration, and reinforcement learning. My technical foundation is supported by proficiency in C++, Python, and hardware integration using industrial standards like <b>PLC/Beckhoff</b>.
 </p>
 
 
