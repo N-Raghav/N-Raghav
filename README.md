@@ -26,14 +26,6 @@ I build intelligent robotic systems that perceive, learn, and act in the real wo
 **Hardware:** Franka Emika Panda, UR5e, Intel RealSense D435, Crazyflie 2.0, Beckhoff TwinCAT PLC  
 **Tools:** Docker, Git, SLURM/HPC, CUDA, Blender
 
-## Experience
-
-**Graduate Research Assistant** @ WPI's Manipulation and Environmental Robotics Lab (Aug–Dec 2025)  
-Built ROS 2 perception-control pipeline for Franka Panda waste sorting with RealSense depth cameras and antipodal grasping networks.
-
-**IoT Software Intern** @ HCLTech (May–Jul 2024)  
-Developed stress-test simulator for industrial IoT protocols (ModBus, CAN, BACnet, PROFINET).
-
 ---
 
 📊 **Seeking Full-Time Opportunities (Aug 2027)** in perception engineering, robotics software, or ML for robotics.
