@@ -1,5 +1,5 @@
 # Hi, I'm Raghav Nallaperumal
-**MS Robotics Engineering @ WPI | Perception • Robot Learning • Sensor Fusion**
+**MS Robotics Engineering @ WPI | Perception • Robot Learning**
 
 📧 [raghavnallaperumal753@gmail.com](mailto:raghavnallaperumal753@gmail.com)
 🌐 [Portfolio](https://raghav-nallaperumal.vercel.app) | [LinkedIn](https://www.linkedin.com/in/raghav-nallaperumal/)
