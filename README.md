@@ -2,7 +2,7 @@
 **MS Robotics Engineering @ WPI | Perception • Robot Learning**
 
 📧 [raghavnallaperumal753@gmail.com](mailto:raghavnallaperumal753@gmail.com)
-🌐 [Portfolio](https://raghav-nallaperumal.vercel.app) | [LinkedIn](https://www.linkedin.com/in/raghav-nallaperumal/)
+🌐 [Portfolio](https://raghavnallaperumal.com/) | [LinkedIn](https://www.linkedin.com/in/raghav-nallaperumal/)
 
 I build intelligent robotic systems that perceive, learn, and act in the real world. My work spans vision-based perception (MonoSense, VIO, NeRF), learning-based manipulation (deep RL, imitation learning), and real hardware deployment (Franka Panda, UR5e, Crazyflie).
 
